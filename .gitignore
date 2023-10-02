@@ -10,6 +10,20 @@ __pycache__/
 *.tsv
 *.3line*
 *.pdb
+*.gz
+*.tar
+*.json
+*.png
+*.blastp
+*.a3m
+*.m8
+
+
+#Ignore the specific folders in asgard#
+*/clustering/*
+*/tmp/*
+*/playground/*
+*/reference/*
 
 ##### Typed in section </3 #######
 
